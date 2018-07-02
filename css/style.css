@@ -1,2 +1,6 @@
+@import url("https://fonts.googleapis.com/css?family=Cute+Font");
 @import "reset.css";
+@import "globar.css";
+@import "header.css";
+@import "nav.css";
 @import "friends.css";
